@@ -1,0 +1,15 @@
+enum ToolKind {
+  signal,
+  percent,
+  temperature,
+  motor,
+  torque,
+  pressure,
+  calibration,
+  plc,
+  electrical,
+  level,
+  tank,
+  flow,
+  thermocouple,
+}

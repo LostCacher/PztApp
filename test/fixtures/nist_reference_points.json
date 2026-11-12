@@ -1,0 +1,296 @@
+{
+  "source": "https://its90.nist.gov/downloadFiles/type_[b,e,j,k,n,r,s,t].tab.txt",
+  "precision_mV": 0.001,
+  "points": [
+    {
+      "type": "B",
+      "temperature": 0,
+      "millivolts": 0.0
+    },
+    {
+      "type": "B",
+      "temperature": 100,
+      "millivolts": 0.033
+    },
+    {
+      "type": "B",
+      "temperature": 400,
+      "millivolts": 0.787
+    },
+    {
+      "type": "B",
+      "temperature": 500,
+      "millivolts": 1.242
+    },
+    {
+      "type": "B",
+      "temperature": 1000,
+      "millivolts": 4.834
+    },
+    {
+      "type": "B",
+      "temperature": 1500,
+      "millivolts": 10.099
+    },
+    {
+      "type": "B",
+      "temperature": 1700,
+      "millivolts": 12.433
+    },
+    {
+      "type": "E",
+      "temperature": -250,
+      "millivolts": -9.718
+    },
+    {
+      "type": "E",
+      "temperature": -200,
+      "millivolts": -8.825
+    },
+    {
+      "type": "E",
+      "temperature": -100,
+      "millivolts": -5.237
+    },
+    {
+      "type": "E",
+      "temperature": 0,
+      "millivolts": 0.0
+    },
+    {
+      "type": "E",
+      "temperature": 100,
+      "millivolts": 6.319
+    },
+    {
+      "type": "E",
+      "temperature": 400,
+      "millivolts": 28.946
+    },
+    {
+      "type": "E",
+      "temperature": 500,
+      "millivolts": 37.005
+    },
+    {
+      "type": "E",
+      "temperature": 1000,
+      "millivolts": 76.373
+    },
+    {
+      "type": "J",
+      "temperature": -200,
+      "millivolts": -7.89
+    },
+    {
+      "type": "J",
+      "temperature": -100,
+      "millivolts": -4.633
+    },
+    {
+      "type": "J",
+      "temperature": 0,
+      "millivolts": 0.0
+    },
+    {
+      "type": "J",
+      "temperature": 100,
+      "millivolts": 5.269
+    },
+    {
+      "type": "J",
+      "temperature": 400,
+      "millivolts": 21.848
+    },
+    {
+      "type": "J",
+      "temperature": 500,
+      "millivolts": 27.393
+    },
+    {
+      "type": "J",
+      "temperature": 1000,
+      "millivolts": 57.953
+    },
+    {
+      "type": "K",
+      "temperature": -250,
+      "millivolts": -6.404
+    },
+    {
+      "type": "K",
+      "temperature": -200,
+      "millivolts": -5.891
+    },
+    {
+      "type": "K",
+      "temperature": -100,
+      "millivolts": -3.554
+    },
+    {
+      "type": "K",
+      "temperature": 0,
+      "millivolts": 0.0
+    },
+    {
+      "type": "K",
+      "temperature": 100,
+      "millivolts": 4.096
+    },
+    {
+      "type": "K",
+      "temperature": 400,
+      "millivolts": 16.397
+    },
+    {
+      "type": "K",
+      "temperature": 500,
+      "millivolts": 20.644
+    },
+    {
+      "type": "K",
+      "temperature": 1000,
+      "millivolts": 41.276
+    },
+    {
+      "type": "N",
+      "temperature": -250,
+      "millivolts": -4.313
+    },
+    {
+      "type": "N",
+      "temperature": -200,
+      "millivolts": -3.99
+    },
+    {
+      "type": "N",
+      "temperature": -100,
+      "millivolts": -2.407
+    },
+    {
+      "type": "N",
+      "temperature": 0,
+      "millivolts": 0.0
+    },
+    {
+      "type": "N",
+      "temperature": 100,
+      "millivolts": 2.774
+    },
+    {
+      "type": "N",
+      "temperature": 400,
+      "millivolts": 12.974
+    },
+    {
+      "type": "N",
+      "temperature": 500,
+      "millivolts": 16.748
+    },
+    {
+      "type": "N",
+      "temperature": 1000,
+      "millivolts": 36.256
+    },
+    {
+      "type": "R",
+      "temperature": 0,
+      "millivolts": 0.0
+    },
+    {
+      "type": "R",
+      "temperature": 100,
+      "millivolts": 0.647
+    },
+    {
+      "type": "R",
+      "temperature": 400,
+      "millivolts": 3.408
+    },
+    {
+      "type": "R",
+      "temperature": 500,
+      "millivolts": 4.471
+    },
+    {
+      "type": "R",
+      "temperature": 1000,
+      "millivolts": 10.506
+    },
+    {
+      "type": "R",
+      "temperature": 1500,
+      "millivolts": 17.451
+    },
+    {
+      "type": "R",
+      "temperature": 1700,
+      "millivolts": 20.222
+    },
+    {
+      "type": "S",
+      "temperature": 0,
+      "millivolts": 0.0
+    },
+    {
+      "type": "S",
+      "temperature": 100,
+      "millivolts": 0.646
+    },
+    {
+      "type": "S",
+      "temperature": 400,
+      "millivolts": 3.259
+    },
+    {
+      "type": "S",
+      "temperature": 500,
+      "millivolts": 4.233
+    },
+    {
+      "type": "S",
+      "temperature": 1000,
+      "millivolts": 9.587
+    },
+    {
+      "type": "S",
+      "temperature": 1500,
+      "millivolts": 15.582
+    },
+    {
+      "type": "S",
+      "temperature": 1700,
+      "millivolts": 17.947
+    },
+    {
+      "type": "T",
+      "temperature": -250,
+      "millivolts": -6.18
+    },
+    {
+      "type": "T",
+      "temperature": -200,
+      "millivolts": -5.603
+    },
+    {
+      "type": "T",
+      "temperature": -100,
+      "millivolts": -3.379
+    },
+    {
+      "type": "T",
+      "temperature": 0,
+      "millivolts": 0.0
+    },
+    {
+      "type": "T",
+      "temperature": 100,
+      "millivolts": 4.279
+    },
+    {
+      "type": "T",
+      "temperature": 400,
+      "millivolts": 20.872
+    }
+  ]
+}

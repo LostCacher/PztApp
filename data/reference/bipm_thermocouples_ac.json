@@ -1,0 +1,52 @@
+{
+  "source": "https://www.bipm.org/documents/20126/41773843/Thermocouple_Thermometry_Part1.pdf/d23088f8-3bab-bacc-0cae-7358eb2666b4?download=true&version=2.0",
+  "reference": "BIPM Guide to Secondary Thermometry, Thermocouple Thermometry Part 1, 2025-12-19, Appendix A, pages 47 and 49",
+  "coefficient_units": "microvolts, degrees Celsius",
+  "curves": {
+    "A": [
+      {
+        "min": 0,
+        "max": 2500,
+        "c": [
+          0,
+          11.951905,
+          0.016672625,
+          -2.8287807e-05,
+          2.8397839e-08,
+          -1.8505007e-11,
+          7.3632123e-15,
+          -1.6148878e-18,
+          1.4901679e-22
+        ]
+      }
+    ],
+    "C": [
+      {
+        "min": 0,
+        "max": 630.615,
+        "c": [
+          0,
+          13.406032,
+          0.011924992,
+          -7.9806354e-06,
+          -5.0787515e-09,
+          1.3164197e-11,
+          -7.9197332e-15
+        ]
+      },
+      {
+        "min": 630.615,
+        "max": 2315,
+        "c": [
+          405.28823,
+          11.509355,
+          0.015696453,
+          -1.3704412e-05,
+          5.2290873e-09,
+          -9.2082758e-13,
+          4.5245112e-17
+        ]
+      }
+    ]
+  }
+}
